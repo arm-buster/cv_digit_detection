@@ -1,4 +1,3 @@
-Final project for CS 6476 Computer Vision
 
 
 ## Data Preprocessing
